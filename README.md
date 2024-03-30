@@ -1,0 +1,3 @@
+# 💤 LazyVim
+
+## Personal LazyVim fork
