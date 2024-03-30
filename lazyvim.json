@@ -1,6 +1,10 @@
 {
   "extras": [
-
+    "lazyvim.plugins.extras.coding.copilot",
+    "lazyvim.plugins.extras.dap.core",
+    "lazyvim.plugins.extras.editor.harpoon2",
+    "lazyvim.plugins.extras.formatting.prettier",
+    "lazyvim.plugins.extras.lang.markdown"
   ],
   "news": {
     "NEWS.md": "3314"
