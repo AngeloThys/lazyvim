@@ -8,3 +8,4 @@ opt.completeopt = "menu,menuone,preview,noinsert,noselect"
 opt.scrolloff = 8
 opt.wrap = true
 opt.colorcolumn = "80"
+opt.clipboard = { "unnamed", "unnamedplus" }
